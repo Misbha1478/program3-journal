@@ -1,4 +1,3 @@
-package pgm3;
 
 public class Person {
     String name;
